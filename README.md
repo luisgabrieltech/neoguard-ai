@@ -2,7 +2,7 @@
 
 Uma landing page moderna e responsiva para a NeoGuard, uma plataforma brasileira fictícia de segurança cibernética com IA quântica. Desenvolvida com foco em UX/UI de alta qualidade e conversão otimizada.
 
-![NeoGuard Preview](./public/preview.png)
+![NeoGuard Preview](https://imgur.com/a/oZLvcgQ)
 
 ![Next.js](https://img.shields.io/badge/Next.js-15-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
